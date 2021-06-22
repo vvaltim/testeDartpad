@@ -1,5 +1,5 @@
-nome : Teste dartpad
-modo : flutter
-arquivos :
-  - nome : main.dart
-  - nome : test.dart
+name : Teste dartpad
+mode : flutter
+files :
+  - name : main.dart
+  - name : test.dart
